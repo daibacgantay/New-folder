@@ -6,7 +6,6 @@ const closeBtn = document.querySelector('#close_btn');
 const themeToggler = document.querySelector('.theme-toggler');
 
 
-
 menuBtn.addEventListener('click',()=>{
        sideMenu.style.display = "block"
 })
